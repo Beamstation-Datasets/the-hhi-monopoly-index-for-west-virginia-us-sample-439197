@@ -6,17 +6,17 @@
   "config_category": "acquisition",
   "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
   "config_name": "The HHI Monopoly Index for West Virginia, US",
-  "export_job_id": "e6dd572a-48b4-4457-b91a-efce4137f2be",
+  "export_job_id": "07485b9c-f044-4ae5-8ea6-57c992c480a1",
   "github_org": "Beamstation-Datasets",
   "id_short": 439197,
   "location_name": "West Virginia",
   "location_type": "state",
   "repo_name": "the-hhi-monopoly-index-for-west-virginia-us-sample-439197",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/439197/beamstation_439197_restaurants-us-wv_SAMPLE_DIST.csv",
-  "sample_pct": 9.69,
+  "sample_pct": 9.79,
   "sample_records": 19,
-  "sample_sha256": "6d62034dcdd8b58e1ca5302bb2c8f3547c847657dcc5c64347bade609f7273ee",
-  "sample_size_bytes": 90633,
-  "total_records": 196,
-  "updated_at": "2026-04-07T18:48:02.792800+00:00"
+  "sample_sha256": "f1c1a5400fc5f9d80e83079632645e3d680872caae59daafd1206278d775ed8c",
+  "sample_size_bytes": 88810,
+  "total_records": 194,
+  "updated_at": "2026-04-14T23:57:28.493086+00:00"
 }
