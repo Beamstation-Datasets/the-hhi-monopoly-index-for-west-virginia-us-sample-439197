@@ -9,9 +9,9 @@
 | Dataset ID | `439197` |
 | Location | West Virginia |
 | Category | Restaurants |
-| Full dataset size | 196 records |
-| Free sample size | 19 records (9.69%) |
-| Last export | 2026-04-07T18:48:02.792800+00:00 |
+| Full dataset size | 194 records |
+| Free sample size | 19 records (9.79%) |
+| Last export | 2026-04-14T23:57:28.493086+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-west-virginia-us-sample-439197/releases/download/sample-latest/beamstation_439197_restaurants-us-wv_SAMPLE_DIST.csv) |
 
 ## What is in this sample
