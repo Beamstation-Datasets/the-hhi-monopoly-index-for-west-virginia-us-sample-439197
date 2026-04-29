@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9bb87ad2-d678-49a5-b88a-c03e7f00d77e",
+  "export_job_id": "48161b69-8abc-4b8e-b610-1e3373f11f60",
   "id_short": 439197,
-  "published_at": "2026-04-22T07:30:28Z",
+  "published_at": "2026-04-29T07:18:19Z",
   "repo_name": "the-hhi-monopoly-index-for-west-virginia-us-sample-439197",
   "sample_asset_name": "beamstation_439197_restaurants-us-wv_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/439197/beamstation_439197_restaurants-us-wv_SAMPLE_DIST.csv",
-  "sample_records": 20,
-  "sample_sha256": "6ea94dc5bf6559514cbe377f51a44a17a4fc48fa33dc1a4c08a61d310e955e61",
-  "sample_size_bytes": 91672,
-  "total_records": 207
+  "sample_records": 21,
+  "sample_sha256": "3872e0c22fa3f2d3bb2fe1b2bf3024ff87c91721c0006e9c73d7ece0be84a584",
+  "sample_size_bytes": 95984,
+  "total_records": 218
 }
